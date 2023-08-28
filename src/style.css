@@ -32,6 +32,10 @@
      top: -450px;
      right: -650px;
  }
+ small{
+    margin: auto 110px;
+    text-align: center;
+ }
 #current-button{ 
         position: relative;
         top: -450px;
