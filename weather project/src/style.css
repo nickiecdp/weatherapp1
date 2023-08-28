@@ -1,0 +1,98 @@
+ body {
+     background: rgb(230, 245, 251);
+ }
+
+ h1,
+ h2 {
+     font-family: "Agdasima", sans-serif;
+ }
+
+ h1 {
+     font-weight: 700;
+     font-size: 56px;
+ }
+
+ h3 {
+     font-family: "Rajdhani", sans-serif;
+     font-weight: 600;
+     position: relative;
+     bottom: 165px;
+     left: 565px;
+ }
+
+ img {
+     width: 200px;
+     display: block;
+     margin: 0 350px;
+ }
+
+ form {
+     margin: 20px 125px;
+     position: relative;
+     top: -450px;
+     right: -650px;
+ }
+#current-button{ 
+        position: relative;
+        top: -450px;
+        right: -822px;
+}
+ .container {
+     background-color: rgba(124, 156, 193, 0.087);
+     border-radius: 5px;
+ }
+
+ 
+ .date,
+ .sun,
+ .cloud,
+ .shower,
+ .hi,
+ .lo {
+     text-align: center;
+ }
+
+ .date {
+     text-decoration: underline;
+     padding: 10px;
+ }
+
+ .sun {
+     color: gold;
+     font-size: 40px;
+     padding: 0 10px 10px;
+ }
+
+ .shower {
+     color: rgb(57, 38, 118);
+     font-size: 40px;
+     padding: 0 10px 10px;
+ }
+
+ .cloud {
+     color: grey;
+     font-size: 40px;
+     padding: 0 10px 10px;
+ }
+
+ .hi,
+ .lo,
+ .date {
+     font-family: "Rajdhani", sans-serif;
+     font-weight: 600;
+ }
+
+ .weather-info {
+     font-family: 'Inconsolata', monospace;
+     font-weight: 600;
+     font-size: 25px;
+     position: relative;
+     top: -115px;
+     right: -145px;
+ }
+
+ .forcast {
+     position: relative;
+     top: -130px;
+     right: -125px;
+ }
